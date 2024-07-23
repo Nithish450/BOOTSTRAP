@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-brand{
+    color: #015fc9 !important;
+
+}
+.navbar-nav{
+    background: #d5e9ff;
+    border-radius: 20px;
+    width: 850px;
+    height: 60px;
+}
+.btn{
+    height: 40px;
+    margin-top: 10px;
+}
+.call{
+    margin-left: 10px;
+}
+.nav-item{
+    margin-top: 10px;
+}
+.fa-magnifying-glass{
+    margin-top: 10px;
+
+}
+.fa-solid{
+    color: white ;
+    height: 40px;
+    background: #015fc9;
+    width: 40px;
+    padding: 13px;
+    border-radius: 50%;
+}
+.fab{
+    font-size: 40px;
+    color: #015fc9;
+}
+.btn{
+    background: #015fc9 !important;
+    color: white !important;
+}
+.con{
+    display: flex;
+    margin-top: 15px;
+}
+
+.fa-magnifying-glass{
+    margin-left: 170px !important;
+}
+.carousel{
+    background-color: #015fc9;
+    height: 85vh;
+}
+#c{
+    display: flex !important;
+}
+.d-block{
+    height: 500px;
+}
+#life-content{
+    font-size:30px ;
+}
+#text-size{
+    font-size: 80px;
+}
+#text-content2{
+    margin-right: 50px;
+}
+#button-align{
+    margin-right: 50px;
+}
+#insurance-text{
+    font-size: 50px;
+}
+.btn-light:hover{
+    background: #001d3e !important;
+    color: white !important;
+
+}
+.btn-dark:hover{
+    background: white !important;
+    color: #001d3e !important;
+}
+#features{
+    border-radius: 10px;
+}
+#features:hover{
+    background-color: #015fc9;
+    color: white;
+}
+#features:hover .btn-primary {
+    background-color: white !important;
+    color: #015fc9 !important;
+}
+.feature-icon{
+    height: 0px;
+    width: 100px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+#about-company{
+    margin-top: 100px;
+}
+#about-companycontent{
+    font-size: 60px;
+}
+.service-content-inner:hover{
+    background: #015fc9 !important;
+    color: white !important;
+}
+.service-content-inner:hover .ser{
+    background: #015fc9 !important;
+    color: white !important;
+}
+.service-content-inner:hover .btn-primary {
+    background-color: white !important;
+    color: #015fc9 !important;
+}
+.service-content-inner{
+    border-radius: 0px 0px 10px 10px;
+}
+.blog-background{
+    background: #d5e9ff;
+    border-radius: 0px 0px 10px 10px;
+}
+.blog-background:hover{
+    background:white;
+}
+.business{
+    background: #015fc9;
+    color:white;
+    margin-left: 315px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px 0px 0px 0px;
+
+}
+.team-item{
+    background: #015fc9;
+    border-radius: 10px;
+    color: white;
+}
+.team-content{
+    font-size: 60px;
+}
+.footer{
+    background: #16243d;
+}
+.fab{
+ font-size:20px;
+ color: #015fc9;
+ margin-top: 5px;
+}
+
+.btn:hover{
+    background-color: #015fc9 !important;
+    color: white !important;
+
+}
+.fab:hover{
+    color: white !important;
+
+}
+.btn-background {
+    height: 44px;
+    width: 44px; 
+    background: white !important;
+}
+.rounded-circle {
+    border-radius: 50% !important;
+}
+.links{
+    list-style-type: none;
+    margin-left: 0px;
+}
+.line{
+    width: 1515px;
+    height: 1px;
+    background: #d5e9ff;
+}
